@@ -2,7 +2,12 @@
 
 # Publisher/Subscriber Pattern (Pub-Sub)
 
-Tags: [Solution Architecture], [Event-Driven]
+Tags: **[Solution Architecture], [Event-Driven]**
+
+## Usage
+This pattern is a good fit for scenarios where you want to decouple _publishers_ from _subscribers_ AND the _publishers_ are not dependent on knowing if anyone have read the information sent or not.
+
+## Description
 
 ``` mermaid
 flowchart TB
