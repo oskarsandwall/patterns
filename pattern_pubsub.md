@@ -1,3 +1,5 @@
+[< Back to the list of patterns](patterns_list.md)
+
 # Publisher/Subscriber Pattern (Pub-Sub)
 
 Tags: **[Solution Architecture], [Event-Driven]**
@@ -51,3 +53,5 @@ flowchart TB
   B --- M12 --> S2
   B --- M13 --> S3
 ```
+
+[< Back to the list of patterns](patterns_list.md)
