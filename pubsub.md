@@ -1,5 +1,3 @@
-[ UNDER CONSTRUCTION ]
-
 # Publisher/Subscriber Pattern (Pub-Sub)
 
 Tags: **[Solution Architecture], [Event-Driven]**
@@ -8,7 +6,7 @@ Tags: **[Solution Architecture], [Event-Driven]**
 This pattern is a good fit for scenarios where you want to decouple _publishers_ from _subscribers_ AND the _publishers_ are not dependent on knowing if anyone have read the information sent or not.
 
 ## Description
-Typically the messages sent to the _message broker_ are organized into _topics_ and each subscriber needs to specify which _topic_ messages it want to receive.
+Typically the messages sent to the _message broker_ are organized into _topics_ and each subscriber needs to specify which _topic_ messages it want to receive. In general zero, one or more _subscribers_ can subscribe (and receive) the same message.
 
 ``` mermaid
 flowchart TB
