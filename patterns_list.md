@@ -1,2 +1,4 @@
 # List of Design Patterns
-* [Strangler pattern](strangler.md) [Transformational] [Architectural]
+* [Strangler Pattern](strangler.md) - [Solution Architecture], [Transformation]
+* [Publisher/Subscriber Pattern](pubsub.md) [Solution Architecture], [Event-Driven]
+* 
