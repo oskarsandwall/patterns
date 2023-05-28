@@ -3,6 +3,8 @@
 ```
 -->
 
+[< Back to the list of patterns](patterns_list.md)
+
 # Strangler Pattern
 This pattern is helpful when trying to completely or partially replace old systems with new ones. Instead of having to go with the "big bang" approach and change everything at once you can do a gradual shifts in order to reach your end goal.
 
@@ -75,3 +77,5 @@ flowchart TB
     b4 --> N
     
 ```
+
+[< Back to the list of patterns](patterns_list.md)
