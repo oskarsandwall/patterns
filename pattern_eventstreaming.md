@@ -37,7 +37,7 @@ flowchart TB
   ESS --> ES ---> C
 ```
 
-As with the [Publish/Subscribe pattern](pattern_pubsub.md) streams/topics are used by consumers (also called _event sinks_ and _event processors_) to specify which events they wish to be notified about. Some platforms (like Kafka) allow you to partition stream events even further to enable parallel processing, allowing for better scalability.
+As with the [Publish/Subscribe pattern](pattern_pubsub.md) streams/topics are used by consumers (also called _event sinks_ and _event processors_) to specify which events they wish to be notified about. Some platforms (like Kafka) allow you to partition stream events even further to enable parallel processing, which in turn enables for better scalability.
 
 ``` mermaid
 flowchart TB
