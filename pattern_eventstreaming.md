@@ -1,4 +1,3 @@
-**[UNDER CONSTRUCTION]**
 
 [< Back to the list of patterns](patterns_list.md)
 
