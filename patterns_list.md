@@ -8,11 +8,10 @@
 | [Strangler&nbsp;Pattern](pattern_strangler.md) | [Solution Architecture], [Transformation] |
 | [Publisher/Subscriber&nbsp;Pattern](pattern_pubsub.md) | [Solution Architecture], [Event-Driven], [Distributed] |
 | [Event&nbsp;Streaming&nbsp;Pattern](pattern_eventstreaming.md) | [Solution Architecture], [Event-Driven], [Distributed] |
-| [Event Sourcing Pattern](pattern_eventsourcing.md) | [Solution Architecture], [Event-Driven], [Distributed] |
+| [Event&nbsp;Sourcing&nbsp;Pattern](pattern_eventsourcing.md) | [Solution Architecture], [Event-Driven], [Distributed] |
+| [Builder&nbsp;Pattern](pattern_builder.md) | Separates the construction of a complex object from its representation, allowing the same construction process to create various representations. |
 
 ## Patterns to be added
-* Bridge Pattern: Separates an object’s abstraction from its implementation so that the two can vary independently.
-* Builder Pattern: Separates the construction of a complex object from its representation, allowing the same construction process to create various representations.
 * Chain of Responsibility Pattern: Passes a request along a chain of handlers. Upon receiving a request, each handler decides either to process the request or to pass it to the next handler in the chain.
 * Command Pattern: Encapsulates a request as an object, thereby allowing for parameterization of clients with queues, requests, and operations.
 * Composite Pattern: Composes objects into tree structures to represent part-whole hierarchies. It lets clients treat individual objects and compositions uniformly.
