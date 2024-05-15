@@ -2,6 +2,7 @@
 
 ## Finished patterns
 
+* [Facade Pattern](pattern_facade.md) - [Solution Architecture], [Transformation], [Integration]
 * [Strangler Pattern](pattern_strangler.md) - [Solution Architecture], [Transformation]
 * [Publisher/Subscriber Pattern](pattern_pubsub.md) [Solution Architecture], [Event-Driven], [Distributed]
 * [Event Streaming Pattern](pattern_eventstreaming.md) [Solution Architecture], [Event-Driven], [Distributed]
