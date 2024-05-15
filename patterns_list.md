@@ -1,17 +1,17 @@
 # List of Design Patterns
 
-## Finished patterns
-
-* [Facade Pattern](pattern_facade.md) - [Solution Architecture], [Transformation], [Integration]
-* [Strangler Pattern](pattern_strangler.md) - [Solution Architecture], [Transformation]
-* [Publisher/Subscriber Pattern](pattern_pubsub.md) [Solution Architecture], [Event-Driven], [Distributed]
-* [Event Streaming Pattern](pattern_eventstreaming.md) [Solution Architecture], [Event-Driven], [Distributed]
-* [Event Sourcing Pattern](pattern_eventsourcing.md) [Solution Architecture], [Event-Driven], [Distributed]
-
----
+| Pattern | Description |
+|---|---|
+| [Adapter&nbsp;Pattern](pattern_adapter.md) | Allows incompatible interfaces to work together. It involves a single class that joins functionalities of independent or incompatible.<br/>[Solution Architecture], [Transformation], [Integration] |
+| [Bridge&nbsp;Pattern](pattern_bridge.md) | Separates an object’s abstraction from its implementation so that the two can vary independently. |
+| [Facade&nbsp;Pattern](pattern_facade.md) | Provides a simplified interface to a complex subsystem.<br/> [Solution Architecture], [Transformation], [Integration] |
+| [Strangler&nbsp;Pattern](pattern_strangler.md) | [Solution Architecture], [Transformation] |
+| [Publisher/Subscriber&nbsp;Pattern](pattern_pubsub.md) | [Solution Architecture], [Event-Driven], [Distributed] |
+| [Event&nbsp;Streaming&nbsp;Pattern](pattern_eventstreaming.md) | [Solution Architecture], [Event-Driven], [Distributed] |
+| [Event Sourcing Pattern](pattern_eventsourcing.md) | [Solution Architecture], [Event-Driven], [Distributed] |
 
 ## Patterns to be added
-* **Adapter Pattern**: Allows incompatible interfaces to work together. It involves a single class that joins functionalities of independent or incompatible * Bridge Pattern: Separates an object’s abstraction from its implementation so that the two can vary independently.
+* Bridge Pattern: Separates an object’s abstraction from its implementation so that the two can vary independently.
 * Builder Pattern: Separates the construction of a complex object from its representation, allowing the same construction process to create various representations.
 * Chain of Responsibility Pattern: Passes a request along a chain of handlers. Upon receiving a request, each handler decides either to process the request or to pass it to the next handler in the chain.
 * Command Pattern: Encapsulates a request as an object, thereby allowing for parameterization of clients with queues, requests, and operations.
