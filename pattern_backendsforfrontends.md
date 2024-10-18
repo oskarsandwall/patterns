@@ -1,3 +1,5 @@
+[< Back to the list of patterns](patterns_list.md)
+
 # Backends for Frontends (BFF) Pattern
 
 ## Usage
@@ -15,3 +17,5 @@ Key aspects:
 * **Simplified Frontend Logic:** By handling complex data processing and logic on the backend, the frontend can remain simpler and more focused on the user interface.
 * **Improved User Experience:** Tailored backends ensure that each frontend receives only the relevant data and logic, enhancing the overall user experience.
 * **Autonomy:** Each frontend team can work independently on their backend, allowing for flexibility in development, deployment, and updates.
+
+[< Back to the list of patterns](patterns_list.md)
