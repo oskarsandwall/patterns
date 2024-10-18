@@ -1,3 +1,5 @@
+[< Back to the list of patterns](patterns_list.md)
+
 # Bulkhead Pattern
 
 ## Usage
@@ -20,3 +22,5 @@ Key aspects:
   part is experiencing issues. This increases the overall resilience and reliability of the system.
 * **Cascading Failure Prevention:** The pattern helps prevent cascading failures, where a failure in
   one part of the system leads to failures in other parts.
+
+[< Back to the list of patterns](patterns_list.md)
