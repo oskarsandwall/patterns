@@ -30,6 +30,7 @@
 * Memento Pattern: Captures and externalizes an object’s internal state so that the object can be restored to this state later.
 * Observer Pattern: Defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated * Prototype Pattern: Creates new objects by copying an existing object, known as the prototype.
 * Proxy Pattern: Provides a placeholder for another object to control access, reduce cost, and reduce complexity.
+* [Retry Pattern](pattern_retry.md): A resilience strategy used to handle transient failures in a system by automatically retrying a failed operation. [Microservices]
 * Singleton Pattern: Ensures a class has only one instance and provides a global point of access to it.interfaces.
 automatically.
 * State Pattern: Allows an object to alter its behavior when its internal state changes. The object will appear to change its class.
