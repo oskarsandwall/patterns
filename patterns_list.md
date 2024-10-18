@@ -31,6 +31,7 @@
 * Observer Pattern: Defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated * Prototype Pattern: Creates new objects by copying an existing object, known as the prototype.
 * Proxy Pattern: Provides a placeholder for another object to control access, reduce cost, and reduce complexity.
 * [Retry Pattern](pattern_retry.md): A resilience strategy used to handle transient failures in a system by automatically retrying a failed operation. [Microservices]
+* [Saga Pattern](pattern_saga.md): A pattern used to manage distributed transactions in microservices architecture, ensuring data consistency across multiple services. [Microservices]
 * Singleton Pattern: Ensures a class has only one instance and provides a global point of access to it.interfaces.
 automatically.
 * State Pattern: Allows an object to alter its behavior when its internal state changes. The object will appear to change its class.
