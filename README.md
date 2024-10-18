@@ -3,6 +3,11 @@ This repository is used for my personal notes with regards to things I read and 
 
 * [List of patterns](patterns_list.md)
 
+# Links
+Some links to external resources
+* [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/)
+  * [Azure Well-Architected Framework pillars](https://learn.microsoft.com/en-us/azure/well-architected/pillars)
+    * [Azure Well-Architected Review](https://learn.microsoft.com/en-us/assessments/azure-architecture-review/)
 
 
 ---
