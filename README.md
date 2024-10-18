@@ -3,14 +3,6 @@ This repository is used for my personal notes with regards to things I read and 
 
 * [List of patterns](patterns_list.md)
 
-Information is collected from a lot of different sources like the following below. I try to list all sources and if I for some reason have forgotten one please let me know since I believe in giving credit where credit is due.
+The information documented here in this repository is collected from a lot of different sources (check the link below). I try to list all sources but if I for some reason have forgotten one please let me know since I believe in giving credit where credit is due. 
 
-bff-patterns.com
-dzone.com,
-frontendeng.dev,
-java-design-patterns.com, 
-microsoft.com, 
-samnewman.io, 
-splunk.com,
-thenthbit.com, 
-vision.io
+[List of sources](sources.md)
