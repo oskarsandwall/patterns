@@ -1,5 +1,5 @@
 
-# List of sources
+# List of external sources for information in this repository
 
 bff-patterns.com
 dzone.com,
