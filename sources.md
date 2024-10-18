@@ -6,6 +6,7 @@
 bff-patterns.com
 codereliant.io,
 dzone.com,
+firstdecode.com,
 frontendeng.dev,
 java-design-patterns.com, 
 microsoft.com, 
