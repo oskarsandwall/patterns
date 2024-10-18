@@ -35,3 +35,9 @@ automatically.
 * Strategy Pattern: Defines a family of algorithms, encapsulates each one, and makes them interchangeable. Strategy lets the algorithm vary independently from clients that use it.
 * Template Method Pattern: Defines the skeleton of an algorithm in an operation, deferring some steps to subclasses. Template Method lets subclasses redefine certain steps of an algorithm without changing the algorithm’s structure.
 * Visitor Pattern: Represents an operation to be performed on the elements of an object structure. Visitor lets you define a new operation without changing the classes of the elements on which it operates.
+
+
+---
+The information documented here in this repository is collected from a lot of different sources (check the link below). I try to list all sources but if I for some reason have forgotten one please let me know since I believe in giving credit where credit is due. 
+
+[List of sources](sources.md)
