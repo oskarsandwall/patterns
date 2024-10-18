@@ -14,6 +14,7 @@
 ## Patterns to be added
 * [API Gateway](pattern_apigateway.md): Provides a unified interface to a set of microservices, simplifying client-side interactions. [Microservices]
 * [Backends for Frontends (BFF)](pattern_backendsforfrontends.md): Create separate backend services for each frontend application or interface. Particulary useful when different frontends have unique requirements and need tailored backend services for optimal performance and/or user experience [Microservices]
+* [Bulkhead](pattern_bulkhead.md): A resilience strategy used to isolate different parts of a system to prevent failures from cascading. [Microservices]
 * Chain of Responsibility Pattern: Passes a request along a chain of handlers. Upon receiving a request, each handler decides either to process the request or to pass it to the next handler in the chain.
 * Command Pattern: Encapsulates a request as an object, thereby allowing for parameterization of clients with queues, requests, and operations.
 * Composite Pattern: Composes objects into tree structures to represent part-whole hierarchies. It lets clients treat individual objects and compositions uniformly.
