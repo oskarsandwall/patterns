@@ -1,9 +1,10 @@
-# List of Design Patterns
+# List of (Design) Patterns
 
 | Pattern | Description |
 |---|---|
 | [Adapter&nbsp;Pattern](pattern_adapter.md) | Allows incompatible interfaces to work together. It involves a single class that joins functionalities of independent or incompatible.<br/>[Solution Architecture], [Transformation], [Integration] |
 | [Bridge&nbsp;Pattern](pattern_bridge.md) | Separates an object’s abstraction from its implementation so that the two can vary independently. |
+| [Command&nbsp;Query&nbsp;Responsibility&nbsp;Segregation&nbsp;(CQRS)](pattern_cqrs.md) | This pattern is designed to separate the read and write operations of a data store into distinct models. |
 | [Facade&nbsp;Pattern](pattern_facade.md) | Provides a simplified interface to a complex subsystem.<br/> [Solution Architecture], [Transformation], [Integration] |
 | [Strangler&nbsp;Pattern](pattern_strangler.md) | [Solution Architecture], [Transformation] |
 | [Publisher/Subscriber&nbsp;Pattern](pattern_pubsub.md) | [Solution Architecture], [Event-Driven], [Distributed] |
