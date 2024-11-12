@@ -1,4 +1,4 @@
-# List of (Design) Patterns
+# List of (architecture/design) Patterns
 
 | Pattern | Description |
 |---|---|
