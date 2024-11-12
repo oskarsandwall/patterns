@@ -6,7 +6,7 @@
 Overall, CQRS is particularly useful in complex domains where read and write operations have different performance and scalability requirements.
 
 ## Description
-This pattern is designed to separate the read and write operations of a data store into distinct models.
+This pattern is designed to separate the read and write operations of a data store into distinct models. Often the commands and queries are communicated as events which makes the solution inherently event driven. The [pub/sub](pattern_pubsub.md) pattern, where components publish and subscribe to events, is commonly used in these types of solutions.
 
 ``` mermaid
 flowchart LR
