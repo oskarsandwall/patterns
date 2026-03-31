@@ -11,6 +11,7 @@
 | [Event&nbsp;Streaming&nbsp;Pattern](pattern_eventstreaming.md) | [Solution Architecture], [Event-Driven], [Distributed] |
 | [Event&nbsp;Sourcing&nbsp;Pattern](pattern_eventsourcing.md) | [Solution Architecture], [Event-Driven], [Distributed] |
 | [Builder&nbsp;Pattern](pattern_builder.md) | Separates the construction of a complex object from its representation, allowing the same construction process to create various representations. |
+| [Strategy&nbsp;Pattern](pattern_strategy.md) | Defines a family of algorithms, encapsulates each one, and makes them interchangeable. Strategy lets the algorithm vary independently from clients that use it. |
 
 ## Patterns to be added
 * [API Gateway](pattern_apigateway.md): Provides a unified interface to a set of microservices, simplifying client-side interactions. [Microservices]
@@ -36,7 +37,6 @@
 * Singleton Pattern: Ensures a class has only one instance and provides a global point of access to it.interfaces.
 automatically.
 * State Pattern: Allows an object to alter its behavior when its internal state changes. The object will appear to change its class.
-* Strategy Pattern: Defines a family of algorithms, encapsulates each one, and makes them interchangeable. Strategy lets the algorithm vary independently from clients that use it.
 * Template Method Pattern: Defines the skeleton of an algorithm in an operation, deferring some steps to subclasses. Template Method lets subclasses redefine certain steps of an algorithm without changing the algorithm’s structure.
 * Visitor Pattern: Represents an operation to be performed on the elements of an object structure. Visitor lets you define a new operation without changing the classes of the elements on which it operates.
 
